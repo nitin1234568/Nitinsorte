@@ -1,2 +1,2 @@
 # Nitinsorte
-## https://github.com/nitin1234568/Nitinsorte/settings/pages
+## link https://nitin1234568.github.io/Nitinsorte/
